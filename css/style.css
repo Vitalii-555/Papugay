@@ -1,0 +1,43 @@
+body {
+	font-family:sans-serif;, San-Serif;
+	font-size: 100%;
+    background-color: none; 
+}
+li {
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+}
+h1 {
+	color: #FF252E;
+}
+h2 {
+	color: #24b298;
+}
+p {
+	font-size: 16px;
+	line-height: 1.3em;
+margin-top: 0.1em;
+margin-bottom: 0;
+color: #00ff00;
+}
+nav a {
+	display: block;
+	color: #FAEF1F;
+	line-height: 4em;
+	font-weight: bold;
+	text-align: left;
+}
+nav li a:hover {
+	color: #FAEF1F;
+	background-color: #1227eb;
+}
+p a {
+	display: block;
+	line-height: 4em;
+	font-weight: 4em;
+	text-align: right;
+	color: #ffa500;
+	font-size: 16px;
+}
